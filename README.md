@@ -4,11 +4,11 @@ The software quality assurance logs can be accessed via [google sheets](https://
 
 The document contains logs of the following:
 * contribution logs
-* requirement SQA logs
-* anaylsis SQA logs
-* design SQA logs
-* android SQA logs
-* ios SQA logs
-* UI prototype SQA logs
+* requirement SQA 
+* anaylsis SQA 
+* design SQA 
+* Android SQA 
+* iOS SQA 
+* UI prototype SQA 
 
 It should be noted that the SQA process for the Andriod and iOS developement had people SQAing for different sections of artifacts from the ones they worked on. 
