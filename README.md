@@ -1,6 +1,6 @@
 # SQA
 
-The software quality assurance logs can be accessed via [google sheets] (https://docs.google.com/spreadsheets/d/1Mxeb-O8q5lSGEQVzEIIoYGkT9QRoxtuHq5hOoGGWJCI/edit?usp=sharing) or downloaded as an .xlsx file. 
+The software quality assurance logs can be accessed via [google sheets](https://docs.google.com/spreadsheets/d/1Mxeb-O8q5lSGEQVzEIIoYGkT9QRoxtuHq5hOoGGWJCI/edit?usp=sharing) or downloaded as an .xlsx file. 
 
 The document contains logs of the following:
 * contribution logs
